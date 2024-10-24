@@ -17,6 +17,7 @@
   cursor: pointer;
   font-size: 1rem;
   font-weight: 700;
+  color: hsl(207, 52%, 96%);
 }
 
 .rateCardNumbersSpan:hover {
