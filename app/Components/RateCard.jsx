@@ -1,5 +1,6 @@
 import styles from "./RateCard.module.css";
-import star from "../images/icon-star.svg";
+import Rating from "./Rating";
+import SubmitButton from "./SubmitButton";
 
 export default function RateCard() {
   return (
@@ -21,7 +22,8 @@ export default function RateCard() {
               to help us improve our offering!
             </p>
           </div>
-          <div className={styles.rateCardNumbers}></div>
+          <Rating />
+          <SubmitButton />
         </div>
       </div>
     </>

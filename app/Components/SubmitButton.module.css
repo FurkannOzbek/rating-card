@@ -1,0 +1,12 @@
+.submitButton {
+  margin-top: 20px;
+  height: 50px;
+  width: 100%;
+  border-radius: 50px;
+  background-color: hsl(25, 97%, 53%);
+  border-color: hsl(216, 21%, 19%);
+  color: hsl(216, 12%, 8%);
+  cursor: pointer;
+  font-weight: 900;
+  letter-spacing: 0.25rem;
+}

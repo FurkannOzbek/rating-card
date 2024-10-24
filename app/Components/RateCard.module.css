@@ -7,7 +7,7 @@
 }
 
 .rateCard {
-  height: 400px;
+  height: 420px;
   width: 400px;
   margin: 0 auto;
   border: 2px;
@@ -34,6 +34,7 @@
   color: hsl(220, 9%, 60%);
   margin-top: 10px;
   font-weight: 400;
+  font-size: 15px;
 }
 .rateCardText h1 {
   font-weight: 700;
