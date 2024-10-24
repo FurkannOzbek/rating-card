@@ -87,7 +87,7 @@ export default function RateCard() {
               </svg>
             </div>
             <div className={styles.selectionText}>
-              <div className={styles.ratingText}> You selected this {rating} of 5 </div>{" "}
+              <div className={styles.ratingText}> You selected {rating} of 5 </div>
             </div>
             <h1 className={styles.title}> Thank you!</h1>
             <p className={styles.text}>
