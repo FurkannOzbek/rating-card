@@ -9,9 +9,9 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
   - [Screenshots](#screenshots)
   - [Links](#links)
 - [My Process](#my-process)
-  -[Built with](#built-with)
-  -[What I learned](#what-i-learned)
-  -[Useful resources](#useful-resources)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Useful resources](#useful-resources)
 
 
 ## Overview
@@ -58,7 +58,7 @@ export default function Rating({ onRatingSelect }) { const handleNumberClick = (
 <Rating onRatingSelect={setRating} />
 ```
 
-### Usefull resources 
+### Useful resources 
 
 - [Medium.com](https://medium.com/@Vaibhavihole31/creating-a-star-rating-bar-in-reactjs-a3f66456d7bb) - This helped me for finding out how to shape my rating method.
 
