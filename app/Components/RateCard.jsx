@@ -21,6 +21,7 @@ export default function RateCard() {
               to help us improve our offering!
             </p>
           </div>
+          <div className={styles.rateCardNumbers}></div>
         </div>
       </div>
     </>

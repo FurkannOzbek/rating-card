@@ -28,4 +28,13 @@
 }
 .rateCardText {
   margin-top: 40px;
+  font-family: "Overpass", sans-serif;
+}
+.rateCardText p {
+  color: hsl(220, 9%, 60%);
+  margin-top: 10px;
+  font-weight: 400;
+}
+.rateCardText h1 {
+  font-weight: 700;
 }
