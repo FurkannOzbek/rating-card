@@ -2,12 +2,12 @@
 import { useState } from "react";
 import styles from "./Rating.module.css";
 
-export default function Rating() {
+export default function Rating({ onRatingSelect }) {
   const [rating, setRating] = useState(0);
 
   const handleNumberClick = (value) => {
     setRating(value);
-    console.log(value);
+    onRatingSelect(value);
   };
 
   return (

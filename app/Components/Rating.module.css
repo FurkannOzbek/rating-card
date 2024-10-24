@@ -15,7 +15,8 @@
   background-color: hsl(216, 21%, 19%);
   border-radius: 50%;
   cursor: pointer;
-  font-size: 1.5rem;
+  font-size: 1rem;
+  font-weight: 700;
 }
 
 .rateCardNumbersSpan:hover {
