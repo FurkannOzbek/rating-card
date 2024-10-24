@@ -1,0 +1,31 @@
+.wholePage {
+  overflow: hidden;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.rateCard {
+  height: 400px;
+  width: 400px;
+  margin: 0 auto;
+  border: 2px;
+  background-color: hsl(215, 25%, 14%);
+  border-radius: 30px;
+  padding: 40px;
+}
+
+.icon {
+  padding: 0.4rem;
+  width: 15%;
+  height: 15%;
+  background-color: hsl(216, 21%, 19%);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.rateCardText {
+  margin-top: 40px;
+}
